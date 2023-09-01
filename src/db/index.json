@@ -1,0 +1,21 @@
+{
+"data": {
+    "list": [
+        {
+            "address_id": 10012,
+            "name": "张小",
+            "phone": "18999292929",
+            "province_id": 782,
+            "city_id": 783,
+            "region_id": 785,
+            "detail": "北京路1号楼8888室",
+            "user_id": 10003,
+            "region": {
+                "province": "上海",
+                "city": "上海市",
+                "region": "徐汇区"
+            }
+        }
+    ]
+    }
+}
